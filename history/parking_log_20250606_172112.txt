@@ -1,0 +1,121 @@
+--- Log started at 2025-06-06 17:21:12 ---
+Cam 1 Focal Length: 111.11 pixels
+Cam 2 Focal Length: 111.11 pixels
+2025-06-06 17:21:13 | Cam 2 | Person 1, Distance: 24.87 cm
+2025-06-06 17:21:13 | Cam 2 | Person 2, Distance: 24.87 cm
+2025-06-06 17:21:13 | Cam 2 | Person 3, Distance: 24.87 cm
+2025-06-06 17:21:13 | Cam 2 | Person 4, Distance: 24.87 cm
+2025-06-06 17:21:13 | Cam 2 | Person 5, Distance: 24.87 cm
+2025-06-06 17:21:13 | Cam 2 | Person 6, Distance: 24.87 cm
+2025-06-06 17:21:13 | Cam 2 | Person 7, Distance: 24.87 cm
+2025-06-06 17:21:14 | No objects detected
+2025-06-06 17:21:15 | Cam 1 | Person 1, Distance: 21.37 cm
+2025-06-06 17:21:15 | Cam 1 | Person 2, Distance: 21.37 cm
+2025-06-06 17:21:15 | Cam 1 | Person 3, Distance: 21.37 cm
+2025-06-06 17:21:16 | Cam 1 | Person 1, Distance: 21.33 cm
+2025-06-06 17:21:16 | Cam 1 | Person 2, Distance: 21.33 cm
+2025-06-06 17:21:16 | Cam 1 | Person 3, Distance: 21.33 cm
+2025-06-06 17:21:16 | Cam 1 | Person 4, Distance: 21.33 cm
+2025-06-06 17:21:16 | Cam 1 | Person 5, Distance: 21.33 cm
+2025-06-06 17:21:16 | Cam 1 | Person 6, Distance: 21.33 cm
+2025-06-06 17:21:17 | Cam 1 | Person 1, Distance: 21.26 cm
+2025-06-06 17:21:17 | Cam 1 | Person 2, Distance: 21.26 cm
+2025-06-06 17:21:17 | Cam 1 | Person 3, Distance: 21.26 cm
+2025-06-06 17:21:17 | Cam 1 | Person 4, Distance: 21.26 cm
+2025-06-06 17:21:17 | Cam 1 | Person 5, Distance: 21.26 cm
+2025-06-06 17:21:17 | Cam 1 | Person 6, Distance: 21.26 cm
+2025-06-06 17:21:17 | Cam 1 | Person 7, Distance: 21.26 cm
+2025-06-06 17:21:17 | Cam 1 | Person 8, Distance: 21.26 cm
+2025-06-06 17:21:17 | Cam 1 | Person 9, Distance: 21.26 cm
+2025-06-06 17:21:18 | No objects detected
+2025-06-06 17:21:19 | Cam 1 | Person 1, Distance: 21.2 cm
+2025-06-06 17:21:19 | Cam 1 | Person 2, Distance: 21.2 cm
+2025-06-06 17:21:19 | Cam 1 | Person 3, Distance: 21.2 cm
+2025-06-06 17:21:20 | Cam 1 | Person 1, Distance: 21.23 cm
+2025-06-06 17:21:20 | Cam 1 | Person 2, Distance: 21.23 cm
+2025-06-06 17:21:20 | Cam 1 | Person 3, Distance: 21.23 cm
+2025-06-06 17:21:20 | Cam 1 | Person 4, Distance: 21.23 cm
+2025-06-06 17:21:20 | Cam 1 | Person 5, Distance: 21.23 cm
+2025-06-06 17:21:20 | Cam 1 | Person 6, Distance: 21.23 cm
+2025-06-06 17:21:20 | Cam 1 | Person 7, Distance: 21.23 cm
+2025-06-06 17:21:20 | Cam 1 | Person 8, Distance: 21.23 cm
+2025-06-06 17:21:20 | Cam 1 | Person 9, Distance: 21.23 cm
+2025-06-06 17:21:21 | Cam 1 | Person 1, Distance: 21.5 cm
+2025-06-06 17:21:21 | Cam 1 | Person 2, Distance: 21.5 cm
+2025-06-06 17:21:21 | Cam 1 | Person 3, Distance: 21.5 cm
+2025-06-06 17:21:21 | Cam 1 | Person 4, Distance: 21.5 cm
+2025-06-06 17:21:21 | Cam 1 | Person 5, Distance: 21.5 cm
+2025-06-06 17:21:21 | Cam 1 | Person 6, Distance: 21.5 cm
+2025-06-06 17:21:22 | Cam 1 | Person 1, Distance: 21.62 cm
+2025-06-06 17:21:22 | Cam 1 | Person 2, Distance: 21.62 cm
+2025-06-06 17:21:22 | Cam 1 | Person 3, Distance: 21.62 cm
+2025-06-06 17:21:22 | Cam 1 | Person 4, Distance: 21.62 cm
+2025-06-06 17:21:22 | Cam 1 | Person 5, Distance: 21.62 cm
+2025-06-06 17:21:22 | Cam 1 | Person 6, Distance: 21.62 cm
+2025-06-06 17:21:22 | Cam 1 | Person 7, Distance: 21.62 cm
+2025-06-06 17:21:22 | Cam 1 | Person 8, Distance: 21.62 cm
+2025-06-06 17:21:22 | Cam 1 | Person 9, Distance: 21.62 cm
+2025-06-06 17:21:23 | Cam 1 | Person 1, Distance: 21.5 cm
+2025-06-06 17:21:23 | Cam 1 | Person 2, Distance: 21.5 cm
+2025-06-06 17:21:23 | Cam 1 | Person 3, Distance: 21.5 cm
+2025-06-06 17:21:23 | Cam 1 | Person 4, Distance: 21.5 cm
+2025-06-06 17:21:23 | Cam 1 | Person 5, Distance: 21.5 cm
+2025-06-06 17:21:23 | Cam 1 | Person 6, Distance: 21.5 cm
+2025-06-06 17:21:24 | Cam 1 | Person 1, Distance: 21.48 cm
+2025-06-06 17:21:24 | Cam 1 | Person 2, Distance: 21.48 cm
+2025-06-06 17:21:24 | Cam 1 | Person 3, Distance: 21.48 cm
+2025-06-06 17:21:24 | Cam 1 | Person 4, Distance: 21.48 cm
+2025-06-06 17:21:24 | Cam 1 | Person 5, Distance: 21.48 cm
+2025-06-06 17:21:24 | Cam 1 | Person 6, Distance: 21.48 cm
+2025-06-06 17:21:24 | Cam 1 | Person 7, Distance: 21.48 cm
+2025-06-06 17:21:24 | Cam 1 | Person 8, Distance: 21.48 cm
+2025-06-06 17:21:24 | Cam 1 | Person 9, Distance: 21.48 cm
+2025-06-06 17:21:25 | Cam 1 | Person 1, Distance: 21.37 cm
+2025-06-06 17:21:25 | Cam 1 | Person 2, Distance: 21.37 cm
+2025-06-06 17:21:25 | Cam 1 | Person 3, Distance: 21.37 cm
+2025-06-06 17:21:25 | Cam 1 | Person 4, Distance: 21.37 cm
+2025-06-06 17:21:25 | Cam 1 | Person 5, Distance: 21.37 cm
+2025-06-06 17:21:26 | Cam 1 | Person 1, Distance: 192.31 cm
+2025-06-06 17:21:27 | No objects detected
+2025-06-06 17:21:28 | No objects detected
+2025-06-06 17:21:29 | No objects detected
+2025-06-06 17:21:30 | No objects detected
+2025-06-06 17:21:31 | No objects detected
+2025-06-06 17:21:32 | No objects detected
+2025-06-06 17:21:33 | No objects detected
+2025-06-06 17:21:34 | No objects detected
+2025-06-06 17:21:35 | No objects detected
+2025-06-06 17:21:36 | Cam 1 | Person 1, Distance: 21.04 cm
+2025-06-06 17:21:37 | No objects detected
+2025-06-06 17:21:38 | No objects detected
+2025-06-06 17:21:39 | No objects detected
+2025-06-06 17:21:40 | No objects detected
+2025-06-06 17:21:41 | No objects detected
+2025-06-06 17:21:42 | No objects detected
+2025-06-06 17:21:43 | No objects detected
+2025-06-06 17:21:44 | No objects detected
+2025-06-06 17:21:45 | No objects detected
+2025-06-06 17:21:46 | Cam 1 | Person 1, Distance: 19.74 cm
+2025-06-06 17:21:46 | Cam 1 | Person 2, Distance: 19.74 cm
+2025-06-06 17:21:46 | Cam 1 | Person 3, Distance: 19.74 cm
+2025-06-06 17:21:47 | No objects detected
+2025-06-06 17:21:48 | Cam 1 | Person 1, Distance: 20.79 cm
+2025-06-06 17:21:48 | Cam 1 | Person 2, Distance: 20.79 cm
+2025-06-06 17:21:49 | Cam 1 | Person 1, Distance: 22.24 cm
+2025-06-06 17:21:49 | Cam 1 | Person 2, Distance: 22.24 cm
+2025-06-06 17:21:49 | Cam 1 | Person 3, Distance: 22.24 cm
+2025-06-06 17:21:49 | Cam 1 | Person 4, Distance: 22.24 cm
+2025-06-06 17:21:50 | Cam 1 | Person 1, Distance: 22.65 cm
+2025-06-06 17:21:50 | Cam 1 | Person 2, Distance: 22.65 cm
+2025-06-06 17:21:50 | Cam 1 | Person 3, Distance: 22.65 cm
+2025-06-06 17:21:51 | Cam 1 | Person 1, Distance: 22.62 cm
+2025-06-06 17:21:51 | Cam 1 | Person 2, Distance: 22.62 cm
+2025-06-06 17:21:51 | Cam 1 | Person 3, Distance: 22.62 cm
+2025-06-06 17:21:52 | No objects detected
+2025-06-06 17:21:53 | No objects detected
+2025-06-06 17:21:54 | No objects detected
+2025-06-06 17:21:55 | No objects detected
+2025-06-06 17:21:56 | No objects detected
+2025-06-06 17:21:57 | No objects detected
+2025-06-06 17:21:58 | No objects detected
+--- Log ended at 2025-06-06 17:21:58 ---

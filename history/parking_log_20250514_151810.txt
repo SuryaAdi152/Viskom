@@ -1,0 +1,20 @@
+--- Log started at 2025-05-14 15:18:10 ---
+Focal Length: 411.1111111111111
+2025-05-14 15:18:11 | Person 1, Distance: 49.43 cm
+2025-05-14 15:18:12 | Person 1, Distance: 49.79 cm
+2025-05-14 15:18:13 | Person 1, Distance: 52.21 cm
+2025-05-14 15:18:14 | Person 1, Distance: 67.83 cm
+2025-05-14 15:18:15 | Person 1, Distance: 251.13 cm
+2025-05-14 15:18:15 | Person 2, Distance: 251.13 cm
+2025-05-14 15:18:16 | Person 1, Distance: 190.99 cm
+2025-05-14 15:18:16 | Person 2, Distance: 190.99 cm
+2025-05-14 15:18:17 | Person 1, Distance: 97.38 cm
+2025-05-14 15:18:17 | Person 2, Distance: 97.38 cm
+2025-05-14 15:18:18 | Person 1, Distance: 104.48 cm
+2025-05-14 15:18:18 | Person 2, Distance: 104.48 cm
+2025-05-14 15:18:19 | Person 1, Distance: 99.94 cm
+2025-05-14 15:18:19 | Person 2, Distance: 99.94 cm
+2025-05-14 15:18:20 | Person 1, Distance: 93.0 cm
+2025-05-14 15:18:20 | Person 2, Distance: 93.0 cm
+2025-05-14 15:18:21 | Person 1, Distance: 104.4 cm
+2025-05-14 15:18:21 | Person 2, Distance: 104.4 cm

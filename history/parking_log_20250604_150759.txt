@@ -1,0 +1,5 @@
+--- Log started at 2025-06-04 15:07:59 ---
+Warning: No reference image for Cam 1. Using default focal length.
+Warning: No reference image for Cam 2. Using default focal length.
+Error: Could not read frame from Cam 1.
+--- Log ended at 2025-06-04 15:09:27 ---

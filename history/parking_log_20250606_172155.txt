@@ -1,0 +1,7 @@
+--- Log started at 2025-06-06 17:21:55 ---
+Cam 1 Focal Length: 111.11 pixels
+Cam 2 Focal Length: 111.11 pixels
+2025-06-06 17:21:56 | No objects detected
+2025-06-06 17:21:57 | No objects detected
+2025-06-06 17:21:58 | No objects detected
+--- Log ended at 2025-06-06 17:21:58 ---

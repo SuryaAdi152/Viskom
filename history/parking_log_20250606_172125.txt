@@ -1,0 +1,45 @@
+--- Log started at 2025-06-06 17:21:25 ---
+Cam 1 Focal Length: 111.11 pixels
+Cam 2 Focal Length: 111.11 pixels
+2025-06-06 17:21:26 | Cam 1 | Person 1, Distance: 21.37 cm
+2025-06-06 17:21:27 | No objects detected
+2025-06-06 17:21:28 | No objects detected
+2025-06-06 17:21:29 | No objects detected
+2025-06-06 17:21:30 | No objects detected
+2025-06-06 17:21:31 | No objects detected
+2025-06-06 17:21:32 | No objects detected
+2025-06-06 17:21:33 | No objects detected
+2025-06-06 17:21:34 | No objects detected
+2025-06-06 17:21:35 | No objects detected
+2025-06-06 17:21:36 | No objects detected
+2025-06-06 17:21:37 | No objects detected
+2025-06-06 17:21:38 | No objects detected
+2025-06-06 17:21:39 | No objects detected
+2025-06-06 17:21:40 | No objects detected
+2025-06-06 17:21:41 | No objects detected
+2025-06-06 17:21:42 | No objects detected
+2025-06-06 17:21:43 | No objects detected
+2025-06-06 17:21:44 | No objects detected
+2025-06-06 17:21:45 | No objects detected
+2025-06-06 17:21:46 | Cam 1 | Person 1, Distance: 19.74 cm
+2025-06-06 17:21:46 | Cam 1 | Person 2, Distance: 19.74 cm
+2025-06-06 17:21:46 | Cam 1 | Person 3, Distance: 19.74 cm
+2025-06-06 17:21:47 | No objects detected
+2025-06-06 17:21:48 | Cam 1 | Person 1, Distance: 20.79 cm
+2025-06-06 17:21:48 | Cam 1 | Person 2, Distance: 20.79 cm
+2025-06-06 17:21:49 | Cam 1 | Person 1, Distance: 22.31 cm
+2025-06-06 17:21:50 | Cam 1 | Person 1, Distance: 22.68 cm
+2025-06-06 17:21:51 | Cam 1 | Person 1, Distance: 22.38 cm
+2025-06-06 17:21:51 | Cam 1 | Person 2, Distance: 22.38 cm
+2025-06-06 17:21:51 | Cam 1 | Person 3, Distance: 22.38 cm
+2025-06-06 17:21:51 | Cam 1 | Person 4, Distance: 22.38 cm
+2025-06-06 17:21:51 | Cam 1 | Person 5, Distance: 22.38 cm
+2025-06-06 17:21:51 | Cam 1 | Person 6, Distance: 22.38 cm
+2025-06-06 17:21:52 | No objects detected
+2025-06-06 17:21:53 | No objects detected
+2025-06-06 17:21:54 | No objects detected
+2025-06-06 17:21:55 | No objects detected
+2025-06-06 17:21:56 | No objects detected
+2025-06-06 17:21:57 | No objects detected
+2025-06-06 17:21:58 | No objects detected
+--- Log ended at 2025-06-06 17:21:58 ---

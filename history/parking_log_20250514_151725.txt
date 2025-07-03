@@ -1,0 +1,28 @@
+--- Log started at 2025-05-14 15:17:25 ---
+Warning: Could not load ref_car.png. Using default focal length. Please provide a valid reference image of a car at 200 cm.
+2025-05-14 15:17:27 | Person 1, Distance: 103.73 cm
+2025-05-14 15:17:28 | Person 1, Distance: 95.88 cm
+2025-05-14 15:17:29 | Person 1, Distance: 107.92 cm
+2025-05-14 15:17:30 | Person 1, Distance: 253.95 cm
+2025-05-14 15:17:30 | Person 2, Distance: 253.95 cm
+2025-05-14 15:17:30 | Person 3, Distance: 253.95 cm
+2025-05-14 15:17:31 | Person 1, Distance: 246.7 cm
+2025-05-14 15:17:31 | Person 2, Distance: 246.7 cm
+2025-05-14 15:17:32 | Person 1, Distance: 346.09 cm
+2025-05-14 15:17:32 | Person 2, Distance: 346.09 cm
+2025-05-14 15:17:32 | Person 3, Distance: 346.09 cm
+2025-05-14 15:17:33 | Person 1, Distance: 337.63 cm
+2025-05-14 15:17:33 | Person 2, Distance: 337.63 cm
+2025-05-14 15:17:33 | Person 3, Distance: 337.63 cm
+2025-05-14 15:17:34 | Person 1, Distance: 345.41 cm
+2025-05-14 15:17:34 | Person 2, Distance: 345.41 cm
+2025-05-14 15:17:34 | Person 3, Distance: 345.41 cm
+2025-05-14 15:17:35 | Person 1, Distance: 301.12 cm
+2025-05-14 15:17:35 | Person 2, Distance: 301.12 cm
+2025-05-14 15:17:36 | Person 1, Distance: 256.44 cm
+2025-05-14 15:17:36 | Person 2, Distance: 256.44 cm
+2025-05-14 15:17:37 | Person 1, Distance: 261.68 cm
+2025-05-14 15:17:37 | Person 2, Distance: 261.68 cm
+2025-05-14 15:17:38 | Person 1, Distance: 314.52 cm
+2025-05-14 15:17:38 | Person 2, Distance: 314.52 cm
+2025-05-14 15:17:38 | Person 3, Distance: 314.52 cm
